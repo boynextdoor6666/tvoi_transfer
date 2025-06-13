@@ -6,6 +6,7 @@
     <title>Автомобили - TVOITRANSFER</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="logoauto.PNG" type="image/x-icon">
     <script>
         tailwind.config = {
             theme: {
