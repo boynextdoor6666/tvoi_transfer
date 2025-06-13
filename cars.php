@@ -187,7 +187,7 @@
                 <!-- Премиум -->
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden transform hover:scale-105 transition-all duration-300 flex flex-col">
                     <div class="h-48 bg-white p-2 flex items-center justify-center">
-                        <img src="images/cars/k7.jpg" alt="Премиум" class="w-full h-full object-contain">
+                        <img src="images/cars/maybach.png" alt="Премиум" class="w-full h-full object-contain">
                     </div>
                     <div class="p-6 flex-1 flex flex-col">
                         <h3 class="text-2xl font-bold mb-4">Премиум</h3>
