@@ -177,7 +177,7 @@
     <!-- Hero Section -->
     <section class="relative py-20 overflow-hidden">
         <div class="absolute inset-0 z-0">
-            <img src="images/kyrgyzstan.jpg" alt="Горы Кыргызстана" class="w-full h-full object-cover">
+            <img src="images/kyrgyzstan_mountains.jpg" alt="Горы Кыргызстана" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-brand-500/80 to-brand-600/80"></div>
         </div>
         <div class="container mx-auto px-4 text-center relative z-10">
